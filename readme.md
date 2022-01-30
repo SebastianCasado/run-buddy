@@ -13,4 +13,4 @@ https://github.com/SebastianCasado/run-buddy.git
 ## Contribution
 Made with ❤️ by [Sebastian Casado]
 
-### ©️2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc 
